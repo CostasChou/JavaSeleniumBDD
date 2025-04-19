@@ -126,7 +126,7 @@ Integrating this project into a CI/CD pipeline (e.g., Jenkins, GitHub Actions) c
 Explore parallel execution to run tests concurrently, reducing test execution time and improving efficiency for large test suites.
 
 ### 📊 Enhanced Reporting:
-Consider adding more advanced reporting tools or integrating with third-party services like Allure or TestRail for more detailed insights.
+Consider adding more advanced reporting tools or integrating with third-party services like Extend Reports, Allure or TestRail for more detailed insights.
 
 ### 📜 Logging:
 Implement comprehensive logging to track test execution details and capture key events, making it easier to debug issues and monitor test progress.
