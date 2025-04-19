@@ -139,3 +139,14 @@ Introduce retry logic to re-run tests automatically in case of intermittent fail
 
 ### 📧 Automated Report Emails:
 Implement the ability to send automated test reports via email once the test execution is complete. This can be done by integrating an email service like SMTP or third-party APIs (e.g., SendGrid) to automatically send test reports in various formats (HTML, JSON, XML) to relevant stakeholders after each test run.
+
+### 🧹 Code Linting and Static Analysis:
+Introduce code linting and static analysis tools to enforce consistent coding standards, detect code smells, and improve overall code quality and maintainability across the automation framework.
+
+**Suggested Tools:**
+
+- **Checkstyle** – Ensures code adheres to defined Java style rules.
+- **PMD** – Detects common programming flaws like unused variables, empty catch blocks, and unnecessary object creation.
+- **SpotBugs** – Performs static analysis to find bugs in Java programs by inspecting the bytecode.
+
+These tools can be integrated into the Maven build process to automatically check the codebase during development and CI runs.
