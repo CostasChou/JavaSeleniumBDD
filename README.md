@@ -3,7 +3,7 @@
 ## Use Case - Deliverables - Reasoning - Steps Followed (High-Level)
 
 ### 🧪 Project Title:
-**Test Approach and Automated Validation for Car Registration Form Web App**
+**Test Approach and Automated Validation for Car Registration Web App**
 
 ### 📘 Use Case:
 We have a very simple [form](src/test/resources/Sandbox/QA%20Programming%20Exercise.html) where the user must input their car registration, select a year, and submit their application. Upon submission, the user will be prompted if their application was successful or if there was a problem. Included in the exercise pack: There is an HTML file which downloads some CSS and jQuery from the internet. There is some embedded JavaScript to support the application.
